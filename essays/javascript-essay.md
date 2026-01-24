@@ -9,6 +9,8 @@ labels:
   - Javascript
 ---
 
+<img width="400px" class="rounded float-start pe-4" src="../img/Screenshot 2026-01-23 232005.png">
+
 My journey learning learning Javascript was not a particularly difficult one or all that notable. As a language, it follows in line with C and Java and all the like, just as its name would imply. Overall, just as Java is a more simplified version of C and Python is made to be a simpler experience to learn and use overall, to me, it seems that Javascript just seems to be another level of simplification for code. Of course, for its purposes that is completely fine, as from what I gather it is mostly used for website development and all that jazz where this kind of simpler style would be more convenient since getting into the nitty gritty of everything doesn't matter as much. Though of course, the basic bones of everything is practically so it is just minor things like variable declarations which are formatted and made simpler that cause minor uncomfort. It could just be that this is just a surface level observation by me after only really dipping my toes into the language. 
 
 ## Learning Javascript
