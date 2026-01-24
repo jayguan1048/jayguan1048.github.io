@@ -19,4 +19,8 @@ As a tool Javascript is proficient at what it does. The simplicity doesn't reall
 
 ## Athletic Software Engineering
 
-Athletic Software Engineering
+Athletic Software Engineering has been a somewhat interesting concept, but rather time consuming. It focuses a lot on personal responsibility, which admittedly is something I need to work on more. Whether it is effective will have to be seen, though it will be influenced by my own personal growth as well. The practice WODs work theoretically, but the real difficulty with the WODs is taking in the instructions and figuring out how to do them within the time limit, and these first couple homework ones were quite a bit simple, which didn't really help me in that aspect. The in-class practice, however, did show me that what I should focus on is just getting the general idea done first and then ironing out details later. Even then, when the actual WOD came, I still was struggling on time. I think this style of teaching is rather effective on reinforcing and learning topics. The focus on personal responsibility, while an important lesson does hinge on the student being responsive to such a work ethic. I do feel the focus on time could maybe cause a few issues, but realistically is a skill that people will have to learn for jobs because the world is rough and slow and steady isn't always appreciated.
+
+## Conclusion
+
+This class certainly seems interesting and Javascript will be another tool in my toolbox that I can use later. I might not fully enjoy the language, but over time the sense of incongruence will fade. Simplicity is not a sin, sometimes it is (though that could be said about anything in excess), but Javascript is not one of times, it simply just has its own use in its own places. I look forward to seeing what the semester brings and hope to come out of it for the better.
