@@ -7,12 +7,10 @@
     "phone": "808-220-6192",
     "website": "https://jayguan1048.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
-    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1348 Wanaka Street", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jayguan1048", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/jaymond-guan-26a5813a6/" }
     ]
   },
   "interests": [
@@ -31,7 +29,7 @@
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
-  ],
+  ]
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
