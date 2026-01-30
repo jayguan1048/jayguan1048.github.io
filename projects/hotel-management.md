@@ -18,4 +18,4 @@ If my memory doesn't fail me, I in charge of implementing a couple functions and
 
 Though this project does seem like a major failure and a bit of an eyesore, it was a good learning experience, and ultimately through all the headaches, it was quite fun in hindsight. The lessons I have gained from this trial will help me a lot. Group experiences will be a common thing after all, so the merits of good communication and time management will be relevant for all eternity.
 
-Source: <a href=(https://github.com/jayguan1048/jayguan1048.github.io/blob/main/myFiles/ICS212%20Final%20Group%20Project.pdf)"></a>
+Source: <a href="../myFiles/ICS212 Final Group Project.pdf">Final Project Presentation</a>
