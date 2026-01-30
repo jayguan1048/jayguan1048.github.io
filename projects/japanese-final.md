@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Project1Icon.png
+image: myFiles/KR01-MetalCluster_Hopper_Progrisekey_29.png
 title: "Japanese Final"
 date: 2025
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "The final project for my High School Japanese class."
 ---
 
-<img class="img-fluid" src="../img/Project1.png">
+<img class="img-fluid" src="../myFiles/KR01-MetalCluster_Hopper_Progrisekey_29.png">
 
 For the final of my high school Japanese Class we had to make a presentation about a fictional product we created in Japanese. As it was my senior year, I was allowed to make a video that would be played for the class since we graduated a few weeks before the rest of the school finished out the school year. I didn't take this one too seriously and modeled it after a device from a show I liked. In fact a clip of what I was referencing is in the video itself.
 
