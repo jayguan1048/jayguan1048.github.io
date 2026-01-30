@@ -24,7 +24,7 @@
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -36,10 +36,10 @@
         { "name": "ICS 211: Introduction to Computer Science II" },
         { "name": "ICS 141, 241: Discrete Mathematics" },
         { "name": "ICS 311: Algorithms" },
-        { "name": "ICS 314: Software Development I"}
-        { "name": "ICS 212: Program Structure"}
-        { "name": "MATH 372: Elementary Statistics & Probabilities"}
-        { "name": "JPN 101, 102: Elementary Japanese"}
+        { "name": "ICS 314: Software Development I"},
+        { "name": "ICS 212: Program Structure"},
+        { "name": "MATH 372: Elementary Statistics & Probabilities"},
+        { "name": "JPN 101, 102: Elementary Japanese"},
         { "name": "JPN 201: Intermediate Japanese 1"}
       ]
     }
