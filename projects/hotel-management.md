@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Project1Icon.png
 title: "Hotel Management"
 date: 2025
 published: true
