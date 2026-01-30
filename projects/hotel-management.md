@@ -10,7 +10,7 @@ labels:
 summary: "The final group project for my ICS 212 class."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Project1.png">
 
 The final project of my ICS 212 class was a group project where we were split into groups of four in order to implement a program according to the specifications of the professor, and we were only allowed to work on it in class. The intention was to further practice our ability to work in groups and hone our ability to communicate and work efficiently through splitting up the tasks. Our group had a few minor communication issues and strictly adhered to the time limits for better or worse. Ultimately, we didn't manage to create a program that worked as well as we liked, but it did help to teach us the value of communication, the value of teamwork, and the importance of time management. 
 
