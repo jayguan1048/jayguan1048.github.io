@@ -7,6 +7,7 @@ date: 2025
 published: true
 labels:
   - Essay
+  - Rhetorical Analysis
 summary: "An essay I quite liked from one of my college courses. This one is a bit of a stretch, but still stretching on projects."
 ---
 

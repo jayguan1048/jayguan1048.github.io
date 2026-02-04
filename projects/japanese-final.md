@@ -6,7 +6,7 @@ title: "Japanese Final"
 date: 2025
 published: true
 labels:
-  - GitHub
+  - Japanese
 summary: "The final project for my High School Japanese class."
 ---
 
