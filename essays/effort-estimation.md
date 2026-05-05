@@ -6,12 +6,12 @@ title: "Effort Estimation: Learning One's Own Abilities"
 date: 2026-05-5
 published: false.
 labels:
-  - Coding Standards
+  - Effort Estimation
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
 
-Coding standards certainly are something that can seem rather trivial. Much of it can get reduced to simply style and how you format your code, but that style is rather important as readability is always relevant in code. These coding standards help instill good habits, so that code doesn't get too clustered and hard to parse for when multiple people inevitably have to look at and work with code we write. Outside of that general case, however, these coding standards do help to promote understanding of a language because it can help introduce structure and force you to gain at least somewhat of an understanding of what you are doing, rahter than slapdashing together a solution and hoping it works. These coding standards introduce a set of rules that must be followed, often requiring more and more specifics get introduced, so more in-depth knowledge becomes required to be able to adhere to these rules. Vague sentiments and solutions become more refined out of necessity. Having to work with ESLint this past week has helped me refine my typescript skils a bit, despite how tedious some of it became, adn being able to read all those errors helped me learn what I was doing wrong and how to fix them.
+A useful metric we can all use is knowing how long it would take for us to accomplish different tasks. It is a measure of our own abilities and allows us to be able to better schedule and set expectations. In order to be able to do that better, effort estimation has been a part of all projects that I have been working on. Taking time to guess how long I would take to do something and then comparing actual time at the end. 
 
 ## Using ESLint
 
