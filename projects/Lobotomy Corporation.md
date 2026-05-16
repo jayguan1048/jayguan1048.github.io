@@ -4,7 +4,7 @@ type: project
 image: myFiles/250px-Lobotomy-Logo.png
 title: "Lobotomy Corporation"
 date: 2025
-published: true
+published: false
 labels:
   - Game
 summary: "A management simulation game that I have played. I don't really have a lot of projects, and have discarded a lot of old files."
