@@ -11,8 +11,16 @@ labels:
 summary: "A website for reviewing ICS and Math courses at UH Manoa. My final project for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/hqdefault.jpg">
+<img class="img-fluid" src="../img/landingpage.png">
 
-This essay was a rhetorical analysis essay about a chapter from a game I liked. More specifically the final boss' theme. I really quite enjoyed looking at the relationship described in the story and relating it to the lyrics. I fear that I did not quite go deep enough at the time, basically just recapping some story bits and associating them with the relevant lyrics. I have come to a few more epiphanies since them about how I could interpret the lyrics as it tells quite the sad story of two people who love each other so much, they are blinded by their own love that they cannot even begin to believe that they could be happier together, so they cut each other off so that overwhelming love turns into a deep burning sadness and hatred. As it was tailor made for the story, it of course fits well with the Wuthering Heights theme of the story chapter as it attempts to tell a tragic story between their versions of Heathcliff and Cathy. Such a heartwrenching tale of people breaking down from their inability to communicate. Makes me want to read the original Wuthering Heights some time.
+For the final project of my ICS 314 Software Engineering class, my group decided to make a more specialized version of RateMyProfessor for the ICS and Math classes at UH Manoa. Our goal was to create a more accurate review site that isn't as focused on negativity. Due to time constraints, our website isn't as expanisve or have all the feautrues of RateMyProfessor. The bulk of the website is the course search page, which lists all the ICS and Math courses at UH Manoa alongside one of the professors for the course and their ratings. Once you click on a course, it will redirect you to that courses page where you can see more detailed information and actual reviews left by other users. If you would like to look for a specific professor, they are all listed on the Professor's page on a table where they are grouped with their respective classes. You can also save courses to your profile. 
 
-It was nice letting my brain try to think over a story and how to interperet words and how they are conveyed, even if my view was tinted by the lens of my own existing feelings about the story. At any rate, thi
+<img class="img-fluid" src="../img/course-search-M2.png">
+
+<img class="img-fluid" src="../img/coursedetails311.png">
+
+Most of the work that I did for the project was implementing the course search page, professors page, and the basic design for the course details page. I also reviewed the site's design and made suggestions for different design aspects and changes to be made for a more comprehensive and appealing design. I also implemented the search bar functionality so that it redirected and filtered the courses in the course search page. I designed the course search and course details pages based off the mockups created by our group. 
+
+This was a pretty fun project that helped teach teamwork and orgainzation, so that our group would meet regularly each week and efficiently complete our tasks so that we would have a functioning product by each deadline. Making sure we all did our work helped so that no one fell behind due to someone else's tasks not being finished. I also learned a lot about how to implement a search bar and filtering.
+
+Source: <a href="https://manoa-coursewise.github.io/manoa-course-wise.github.io/#user-guide">Manoa Coursewise</a>
