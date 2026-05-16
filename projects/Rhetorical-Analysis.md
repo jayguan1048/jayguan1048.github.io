@@ -4,7 +4,7 @@ type: project
 image: img/i-just-found-an-easteregg-about-heathcliffs-icon-v0-y8y89suioube1.png
 title: "Rhetorical Analysis Essay"
 date: 2025
-published: true
+published: false
 labels:
   - Essay
   - Rhetorical Analysis
