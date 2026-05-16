@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/github copilot.png">
-
 When you think of software engineering, the first thing that comes to mind is just coding and building programs. That is not the whole story for software engineering though, it is also a practiced discipline that requires the appropriate mindset in order to create the best possible product as possible, like many other artforms. Coding, while a practice that can be done on one's lonesome, is often times a group effort, especially in professional scenarios, so software engineers must keep up to a standard so their code is legible and understandable by their peers. These are all aspects that can be extended beyond just software engineering into the grander scheme of life, as order, teamwork, and tidiness are all virtues that we should all aspire to. 
 
 ## Coding Standards
