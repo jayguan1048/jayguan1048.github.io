@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/i-just-found-an-easteregg-about-heathcliffs-icon-v0-y8y89suioube1.png
+image: img/landingpage.png
 title: "Manoa Coursewise"
 date: 2026
 published: true
