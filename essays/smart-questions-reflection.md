@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions Make for Smart Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
-published: true.
+published: false
 labels:
   - SMART Questions
 ---
