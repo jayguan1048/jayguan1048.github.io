@@ -33,40 +33,16 @@
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
-        { "name": "ICS 211: Introduction to Computer Science II" },
-        { "name": "ICS 141, 241: Discrete Mathematics" },
-        { "name": "ICS 311: Algorithms" },
-        { "name": "ICS 314: Software Development I"},
-        { "name": "ICS 212: Program Structure"},
-        { "name": "MATH 372: Elementary Statistics & Probabilities"},
-        { "name": "JPN 101, 102: Elementary Japanese"},
-        { "name": "JPN 201: Intermediate Japanese 1"}
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 141, 241: Discrete Mathematics",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Development I",
+        "ICS 321: Database Systems I",
+        "ICS 332: Operating Systems",
+        "ICS 212: Program Structure",
+        "MATH 372: Elementary Statistics & Probabilities",
+        "JPN 101, 102: Elementary Japanese",
+        "JPN 201, 202: Intermediate Japanese 1"
       ]
     }
   ],
@@ -88,11 +64,6 @@
       "date": "2021",
       "awarder": "Moanalua High School English Department",
       "summary": "Award given to students of an English class that showed excellence."
-    }
-  ],
-  "references": [
-    {
-      "name": ""
     }
   ]
 }
