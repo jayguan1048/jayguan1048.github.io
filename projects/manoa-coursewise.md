@@ -8,12 +8,12 @@ published: true
 labels:
   - Final Project
   - Course Reviews
-summary: "A website for reviewing ICS and Math courses at UH Manoa. My final project for ICS 314."
+summary: "A website for reviewing ICS and Math courses at UH Manoa. My final project for a Software Engineering class."
 ---
 
 <img class="img-fluid" src="../img/landingpage.png">
 
-For the final project of my ICS 314 Software Engineering class, my group decided to make a more specialized version of RateMyProfessor for the ICS and Math classes at UH Manoa. Our goal was to create a more accurate review site that isn't as focused on negativity. Due to time constraints, our website isn't as expanisve or have all the feautrues of RateMyProfessor. The bulk of the website is the course search page, which lists all the ICS and Math courses at UH Manoa alongside one of the professors for the course and their ratings. Once you click on a course, it will redirect you to that courses page where you can see more detailed information and actual reviews left by other users. If you would like to look for a specific professor, they are all listed on the Professor's page on a table where they are grouped with their respective classes. You can also save courses to your profile. 
+For the final project of a Software Engineering class, my group decided to make a more specialized version of RateMyProfessor for the ICS and Math classes at UH Manoa. Our goal was to create a more accurate review site that isn't as focused on negativity. Due to time constraints, our website isn't as expanisve or have all the feautrues of RateMyProfessor. The bulk of the website is the course search page, which lists all the ICS and Math courses at UH Manoa alongside one of the professors for the course and their ratings. Once you click on a course, it will redirect you to that courses page where you can see more detailed information and actual reviews left by other users. If you would like to look for a specific professor, they are all listed on the Professor's page on a table where they are grouped with their respective classes. You can also save courses to your profile. 
 
 <img class="img-fluid" src="../img/course-search-M2.png">
 
