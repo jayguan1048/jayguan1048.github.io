@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation: Learning One's Own Abilities"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-5
-published: true.
+published: false.
 labels:
   - Effort Estimation
 ---
