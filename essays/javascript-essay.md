@@ -4,7 +4,7 @@ type: essay
 title: "Javascript: A Simplification of a Simplification"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-23
-published: true
+published: false
 labels:
   - Javascript
 ---
