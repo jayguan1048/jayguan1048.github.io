@@ -4,7 +4,7 @@ type: essay
 title: "UI Frameworks: A Nice Shortcut"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-27
-published: true.
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
