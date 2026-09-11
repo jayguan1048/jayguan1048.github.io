@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: To Understand a Language"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-12
-published: false.
+published: false
 labels:
   - Coding Standards
 ---
