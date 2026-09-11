@@ -4,7 +4,7 @@ type: essay
 title: "Between AI and Student"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
-published: false.
+published: false
 labels:
   - AI
 ---
